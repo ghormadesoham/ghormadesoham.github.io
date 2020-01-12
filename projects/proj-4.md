@@ -17,8 +17,11 @@ August – December 2019
     </ul>
 
 **Final Project**
- -  VGG16 was used to detect street numbers.Test accuracy of 96% was obtained training on Street View House Numbers <a href= "http://ufldl.stanford.edu/housenumbers" target="_blank"> dataset</a>.
--  The <a href="/documents/cv/report.pdf" target="_blank"> report</a> includes the output images and link to video running the classifier on unseen images
+ - Applied transfer learning on pretrained VGG16 to correctly classify digits in image and video.
+- Detected digits using Non Maximal Suppression and sliding window technique.
+- Trained on Street View House Numbers <a href= "http://ufldl.stanford.edu/housenumbers" target="_blank"> dataset</a> to obtain test accuracy of 96%.   
+
+-  The <a href="/documents/cv/report.pdf" target="_blank"> report</a> includes the output images and link to video running the classifier on unseen images.
 - The presentation <a href= "https://drive.google.com/open?id=19tfkQmbPsQkMztQmvv0NcLGrAdrx3I_S " target="_blank"> video</a> describes the workflow on how this project was completed.
 
 

@@ -53,6 +53,7 @@ projects:
 - {name: 'Robotics:AI Techniques', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Application Integration', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Computer Vision', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Machine Learning', folder: 'proj-5', file: 'projects/proj-5.html'}
 #-------------------------------
 # Contact Section
 

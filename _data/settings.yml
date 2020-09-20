@@ -54,6 +54,7 @@ projects:
 - {name: 'Application Integration', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Computer Vision', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'Machine Learning', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Reinforcement Learning', folder: 'proj-6', file: 'projects/proj-6.html'}
 #-------------------------------
 # Contact Section
 

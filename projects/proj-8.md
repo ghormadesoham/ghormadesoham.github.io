@@ -1,8 +1,24 @@
 ---
 layout: post
-title: 'Computer Networks'
+title: 'AI Ethics'
 ---
- TODO add markdown pages for AI and AI Ethics courses.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+Jan – May 2021
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+- I learnt about concepts of fairness and bias in Machine Learning and Artificial Intelligence, in context of US Law and regulations, while completing the projects for this <a href="https://omscs.gatech.edu/cs-8803-o10-ai-ethics-and-society" target="_blank"> class</a>.
+- Specifically, I learnt how to :
+    <ul> 
+    <li> identify different types of biases,</li>
+    <li> use fairness metrics to evaluate fairness for a given dataset, and</li>
+    <li> apply bias mitigation techniques.</li>
+    </ul>
+
+- **Tools used**: pandas, sklearn, Python, IBM's Fairness360, Google's What if tool
+
+- **Knowledge gained**:
+    <ul> 
+    <li> Laws, terminology: Protected classes, regulated domains,</li>
+    <li>Fairness metrics: Disparate impact, statistical parity difference,</li>
+    <li> Bias mitigation techniques: disparate impact remover, reweighing.</li>
+    </ul>
+
+

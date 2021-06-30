@@ -3,8 +3,8 @@ layout: default
 title: Resume
 ---
 
-Resume <a href="/documents/resume/Soham_Ghormade_Resume_Feb_2021.pdf" target="_blank">[PDF]</a> |
-<a href="/documents/resume/Soham_Ghormade_Resume_Feb_2021.docx" target="_blank">[Word]</a>
+Resume <a href="/documents/resume/Soham_Ghormade_Resume_June_2021.pdf" target="_blank">[PDF]</a> |
+<a href="/documents/resume/Soham_Ghormade_Resume_June_2021.docx" target="_blank">[Word]</a>
 
 ## Summary
 Software developer at ANSYS with experience in application integration and localization.

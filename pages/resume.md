@@ -7,7 +7,7 @@ Resume <a href="/documents/resume/Soham_Ghormade_Resume_June_2021.pdf" target="_
 <a href="/documents/resume/Soham_Ghormade_Resume_June_2021.docx" target="_blank">[Word]</a>
 
 ## Summary
-Software developer at ANSYS with experience in application integration and localization.
+Software developer at Ansys with experience in application integration and localization.
 
 ## Interests
 
